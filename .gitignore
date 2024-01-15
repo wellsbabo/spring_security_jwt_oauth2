@@ -33,3 +33,5 @@ build/
 .vscode/
 
 application-oauth.properties
+application-jwt.properties
+application.properties
